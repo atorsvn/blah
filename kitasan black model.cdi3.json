@@ -1,0 +1,204 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "まゆげ"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "両目　開閉"
+		},
+		{
+			"Id": "ParamEyeBallLX",
+			"GroupId": "",
+			"Name": "両目　横の動き"
+		},
+		{
+			"Id": "ParamEyeBallLY",
+			"GroupId": "",
+			"Name": "両目　たての動き"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口開閉"
+		},
+		{
+			"Id": "ParamArmRA",
+			"GroupId": "",
+			"Name": "右肩"
+		},
+		{
+			"Id": "ParamArmLA",
+			"GroupId": "",
+			"Name": "左肩"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転Ｙ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "輪っかリボン"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "髪リボン揺れ２"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "ウマ耳"
+		},
+		{
+			"Id": "ParamHair5",
+			"GroupId": "",
+			"Name": "アホ毛揺れ"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横髪右"
+		},
+		{
+			"Id": "ParamHairSide2",
+			"GroupId": "",
+			"Name": "髪揺れ　横髪左"
+		},
+		{
+			"Id": "ParamHairBack3",
+			"GroupId": "",
+			"Name": "髪揺れ　後ろ髪１"
+		},
+		{
+			"Id": "ParamHairBack2",
+			"GroupId": "",
+			"Name": "髪揺れ　後ろ髪２"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後ろ髪４"
+		},
+		{
+			"Id": "ParamHair3",
+			"GroupId": "",
+			"Name": "髪揺れ　白髪部分"
+		},
+		{
+			"Id": "ParamHair2",
+			"GroupId": "",
+			"Name": "髪揺れ　前髪2"
+		},
+		{
+			"Id": "ParamHair",
+			"GroupId": "",
+			"Name": "髪揺れ　前髪３"
+		},
+		{
+			"Id": "ParamHair4",
+			"GroupId": "",
+			"Name": "髪揺れ　前髪４"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part8",
+			"Name": "髪飾り"
+		},
+		{
+			"Id": "Part2",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part3",
+			"Name": "髪落ち影"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ウマみみ"
+		},
+		{
+			"Id": "Part5",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part6",
+			"Name": "横髪"
+		},
+		{
+			"Id": "Part7",
+			"Name": "そで"
+		},
+		{
+			"Id": "Part10",
+			"Name": "前髪"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
